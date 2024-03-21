@@ -1,1 +1,2 @@
-# exFight-POO-PHP-SQL
+# Carmageddon : 
+Exercice basique de POO/PHP/SQL
