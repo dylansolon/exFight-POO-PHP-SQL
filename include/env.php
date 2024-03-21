@@ -1,5 +1,5 @@
 <?php
-define('SERVER', 'localhost');
-define('DATABASE', 'carmageddon');
-define('USER', 'root');
+define('SERVER', '');
+define('DATABASE', '');
+define('USER', '');
 define('PASSWORD', '');
